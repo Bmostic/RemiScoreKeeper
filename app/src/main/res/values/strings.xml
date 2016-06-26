@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Remi Score Keeper</string>
+    <string name="app_nickname">RSK</string>
+    <string name="add_scores">Add Scores</string>
+    <string name="new_game">New Game</string>
+    <string name="report_problem">Send Feedback</string>
+    <string name="email">bmosdev@gmail.com</string>
+    <string name="name_error">Cannot be empty</string>
+    <string name="score_error">Please enter a whole number</string>
+    <string name="alternate_settings_title">Alternate Directions</string>
+    <string name="alternate_settings_summary">Alternate the direction of play every round</string>
+</resources>

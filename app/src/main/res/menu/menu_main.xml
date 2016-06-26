@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_add_score"
+        android:title="@string/add_scores"
+        android:icon="@drawable/ic_add_scores"
+        android:visible="false"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_new_game"
+        android:title="@string/new_game"
+        android:orderInCategory="200"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_report_problem"
+        android:title="@string/report_problem"
+        android:orderInCategory="300"
+        app:showAsAction="never"/>
+</menu>
